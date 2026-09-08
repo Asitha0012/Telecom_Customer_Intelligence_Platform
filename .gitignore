@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.env
+.ipynb_checkpoints/
+*.parquet
+data/raw/*
+data/processed/*
+data/features/*
+models/*.joblib
+reports/generated/*
+.streamlit/secrets.toml
