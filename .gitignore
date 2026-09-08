@@ -9,3 +9,4 @@ data/features/*
 models/*.joblib
 reports/generated/*
 .streamlit/secrets.toml
+Telecom_Customer_Intelligence_Complete_Guide.pdf
